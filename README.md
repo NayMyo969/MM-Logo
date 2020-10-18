@@ -16,12 +16,12 @@ $pkg install python2 -y
 
 $pkg install git -y
 
-$git clone https://github.com/Sniper89MM/MM-Logo1.git
+$git clone https://github.com/NayMyo969/MM-Logo.git
 
-$cd MM-Logo1
+$cd MM-Logo
 
 $chmod +x *
 
-Now Running By " bash logo.sh "
+Now Running By " bash NayMyo.sh "
 
 Choose Options 1 to 4 
